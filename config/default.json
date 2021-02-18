@@ -1,0 +1,4 @@
+{
+  "jwt_secret_key": "MY_PRIVATE_KEY",
+  "port": "DEVELOPMENT_PORT"
+}
