@@ -15,7 +15,7 @@ At this time, the server should be listening on the given port `3002`(by default
 
 ### 3. Send `POST` request to the endpoint `/api/auth` and grab the token.
 
-### 4. Send some `GET` request to the server and get the data.
+### 4. Send some `GET` requests to the server and get the data.
   - Please make sure you put your token into a header called `x-auth-token`.
 
 
