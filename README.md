@@ -23,5 +23,6 @@ At this time, the server should be listening on the given port `3002`(by default
  - `GET`:`api/meetings`
  - `GET`:`api/members`
  - `GET`:`api/notifications`
+ - `GET`:`api/user`
 
 
